@@ -1,5 +1,5 @@
-public class Main {
+public class reduce {
     public static void main(String[] args) {
-        FizzBuzz.main(args);
+
     }
 }
